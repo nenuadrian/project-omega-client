@@ -1,4 +1,6 @@
-# Project Omega Clietn - Light PHP MVC
+# Project Omega Client - Light PHP MVC
+
+[![Node.js CI](https://github.com/nenuadrian/project-omega-client/actions/workflows/node.js.yml/badge.svg)](https://github.com/nenuadrian/project-omega-client/actions/workflows/node.js.yml)
 
 # Add key to github 
 ```
