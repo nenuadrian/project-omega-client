@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^31.3.0"
+  "dependencies": {
+    "electron": "^34.1.1"
   }
 }
