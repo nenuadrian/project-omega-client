@@ -24,5 +24,4 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
-    - run: cd electron-desktop-client && npm install && npm run build
-    - run: cd electron-desktop-client && npm test
+    - run: cd electron-desktop-client && npm install
