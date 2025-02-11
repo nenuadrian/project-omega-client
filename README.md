@@ -2,6 +2,8 @@
 
 [![Node.js CI](https://github.com/nenuadrian/project-omega-client/actions/workflows/node.js.yml/badge.svg)](https://github.com/nenuadrian/project-omega-client/actions/workflows/node.js.yml)
 
+[![Electron CI](https://github.com/nenuadrian/project-omega-client/actions/workflows/electron.yml/badge.svg)](https://github.com/nenuadrian/project-omega-client/actions/workflows/electron.yml)
+
 # Add key to github 
 ```
 ssh-keygen -t rsa
